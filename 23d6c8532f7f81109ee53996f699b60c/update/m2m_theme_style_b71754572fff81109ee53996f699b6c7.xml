@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_theme_style">
+    <m2m_theme_style action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <style display_value="Clouds Default Colors">5967d8572fff81109ee53996f699b64a</style>
+        <sys_class_name>m2m_theme_style</sys_class_name>
+        <sys_created_by>jason.nichols</sys_created_by>
+        <sys_created_on>2022-06-05 09:43:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>b71754572fff81109ee53996f699b6c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Themes" source="x_272088_themes">23d6c8532f7f81109ee53996f699b60c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Themes">23d6c8532f7f81109ee53996f699b60c</sys_scope>
+        <sys_update_name>m2m_theme_style_b71754572fff81109ee53996f699b6c7</sys_update_name>
+        <sys_updated_by>jason.nichols</sys_updated_by>
+        <sys_updated_on>2022-06-05 09:43:40</sys_updated_on>
+        <theme display_value="Clouds">891718d32fff81109ee53996f699b620</theme>
+    </m2m_theme_style>
+</record_update>
